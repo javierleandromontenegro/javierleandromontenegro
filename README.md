@@ -4,7 +4,7 @@
  From Argentina :argentina: to :earth_americas:
 </h3>
 </div>
- <img width="900px" src="https://github.com/javierleandromontenegro/javierleandromontenegro/blob/main/home.gif" alt="Sublime's custom image"/> 
+
  
  ## 💫 About Me:
 I am a Full Stack Developer with a passion for building beautiful and user-friendly web applications. I am also a quick learner and have a keen eye for detail.<br>If you're looking for a Full Stack Developer to help build your next web application, please get in touch. I'd be happy to chat and see if I can be of assistance. I really enjoy working with teams to create high-quality software.
@@ -29,7 +29,12 @@ I am a Full Stack Developer with a passion for building beautiful and user-frien
     </a>
 <p/>
 
-
+<h2>
+  :pushpin: My Projects
+  </h2>
+  
+   <img  src="https://github.com/javierleandromontenegro/javierleandromontenegro/blob/main/home.gif" alt="Sublime's custom image"/> 
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
