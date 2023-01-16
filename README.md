@@ -1,5 +1,5 @@
 <div align="center" display="grid">
-<img width="900px" src="https://user-images.githubusercontent.com/105249699/195198985-ad8eb87c-ba4e-4305-8d50-497db7a8a745.gif?raw=true" alt="Sublime's custom image"/>
+<img width="900px" src= alt="Sublime's custom image"/>
 <h3>
  From Argentina :argentina: to :earth_americas:
 </h3>
