@@ -18,9 +18,9 @@ I am a Full Stack Developer with a passion for building beautiful and user-frien
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Connect with me
 
 <p>
-    <a href="inversiones.vvm@gmail.com">
+    <a href="javierleandromontenegro@gmail.com">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
-      inversiones.vvm@gmail.com
+      javierleandromontenegro@gmail.com
     </a>    
     <br>
     <a href="https://www.linkedin.com/in/javierleandromontenegro/">
