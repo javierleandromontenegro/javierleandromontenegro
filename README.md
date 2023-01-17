@@ -34,6 +34,18 @@ I am a Full Stack Developer with a passion for building beautiful and user-frien
   </h2>
   
    <img  src="https://github.com/javierleandromontenegro/javierleandromontenegro/blob/main/home.gif" alt="Sublime's custom image"/> 
+   <hr/>
+    <img  src="https://github.com/javierleandromontenegro/javierleandromontenegro/blob/main/blog.gif" alt="Sublime's custom image"/> 
+     <hr/>
+    <img  src="https://github.com/javierleandromontenegro/javierleandromontenegro/blob/main/blogdetalle.gif" alt="Sublime's custom image"/> 
+     <hr/>
+    <img  src="https://github.com/javierleandromontenegro/javierleandromontenegro/blob/main/booking.gif" alt="Sublime's custom image"/> 
+     <hr/>
+    <img  src="https://github.com/javierleandromontenegro/javierleandromontenegro/blob/main/detalle.gif" alt="Sublime's custom image"/> 
+     <hr/>
+    <img  src="https://github.com/javierleandromontenegro/javierleandromontenegro/blob/main/mapa.gif" alt="Sublime's custom image"/> 
+     <hr/>
+    <img  src="https://github.com/javierleandromontenegro/javierleandromontenegro/blob/main/pagar.gif" alt="Sublime's custom image"/> 
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
