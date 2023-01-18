@@ -46,6 +46,7 @@ I am a Full Stack Developer with a passion for building beautiful and user-frien
     <img  src="https://github.com/javierleandromontenegro/javierleandromontenegro/blob/main/mapa.gif" alt="Sublime's custom image"/> 
      <hr/>
     <img  src="https://github.com/javierleandromontenegro/javierleandromontenegro/blob/main/pagar.gif" alt="Sublime's custom image"/> 
-  
+       <hr/>
+    <img  src="https://github.com/javierleandromontenegro/javierleandromontenegro/blob/main/poke.gif" alt="Sublime's custom image"/> 
 
 - 🌱 I’m currently learning Typescript, mongoDB, next
